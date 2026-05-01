@@ -11,6 +11,4 @@ version '1.0.0'
 
 client_script 'client.lua'
 
---nao tem server.lua pois é algo so do pc do cara, nao precisa de nada no servidor
-
 
