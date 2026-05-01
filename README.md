@@ -9,7 +9,7 @@ Script simples para FiveM que mostra o blip do veículo do jogador no mapa, mesm
 1. Coloque a pasta do script dentro de `resources` do seu servidor.
 2. No `server.cfg`, adicione:
    ```txt
-   ensure carro-do-player
+   ensure fivem_player_vehicle_blip
    ```
 3. Reinicie o servidor ou carregue o recurso.
 
