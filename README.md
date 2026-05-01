@@ -27,7 +27,7 @@ Simple FiveM script that shows the player's vehicle blip on the map even when th
 1. Put the script folder into your server's `resources` directory.
 2. In `server.cfg`, add:
    ```txt
-   ensure carro-do-player
+   ensure fivem_player_vehicle_blip
    ```
 3. Restart the server or start the resource.
 
